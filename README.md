@@ -1,2 +1,2 @@
 # Fundraising_Project
-Fundraising Prject about at the MTA subways stations
+Fundraising Prject at the MTA subways stations
